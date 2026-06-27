@@ -468,7 +468,7 @@ The application displays:
 | Mazen Moustafa | Dashboard Creation |
 | YARA WALID  | ML, DS & Deployment |
 | youssef mohammed zhiry | streaming engineer |
-| <!-- Team Member 5 --> | <!-- Role --> |
+| Victor ameer fahmy | Data Warehouse |
 | <!-- Team Member 6 --> | <!-- Role --> |
 
 ---
